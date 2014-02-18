@@ -69,3 +69,4 @@ The first time you run the site, the homepage will warn you that it expects ther
 You'll probably want to add some other content too (blog post, members, etc) to get all the pages looking right.
 
 ... happy hacking!
+https://www.codeship.io/projects/411a69a0-7b20-0131-d8cb-3ec64e4403b3/status
